@@ -2,7 +2,8 @@
 //and its is not a responsive 
 
 NAVEBAR VIEW ..
-![image](https://github.com/nitishsghh/Porsche/assets/120895433/72868ef8-d2d9-47b4-8007-31d5995ee58d)
+![FRONT ](https://github.com/nitishsghh/Porsche/assets/120895433/4e4d4333-e339-4482-9e90-b8020146a7ba)
+
 
 OVER VIEW OF THIS WEBSITE ..
 ![OVER VIEW](https://github.com/nitishsghh/Porsche/assets/120895433/123f5fa4-f850-4073-9764-7669c86734e2)
