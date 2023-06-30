@@ -1,7 +1,8 @@
 //this project based on html and css 
 //and its is not a responsive 
 
-NAVEBAR VIEW ..
+
+Navbar VIEW ..
 ![FRONT ](https://github.com/nitishsghh/Porsche/assets/120895433/4e4d4333-e339-4482-9e90-b8020146a7ba)
 
 
